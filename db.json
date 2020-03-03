@@ -8,7 +8,7 @@
   "GetNotifications":
     [{
       "id": "202003031700",
-      "Message": "Makeway Corporation deposit cheque 891267 has been credited."
+      "Message": "Makeway Corporation deposit cheque <say-as interpret-as='digits'>891267</say-as> has been credited."
     },{
       "id": "202003031756",
       "Message": "You have preapproved car loan upto 30000 CAD at 10% interest."
