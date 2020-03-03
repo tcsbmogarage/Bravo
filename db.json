@@ -1,0 +1,8 @@
+{
+  "GetAccountBalance":
+    {
+      "id": "balance",
+      "Name": "Morgan Kudos",
+      "Balance": "10000 CAD"
+    }
+}
